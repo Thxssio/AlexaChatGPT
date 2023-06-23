@@ -7,6 +7,6 @@
 
 
 - [x] Alexa
-- [X] API
+- [X] ASK CLI
 - [X] JS
 - [X] Skill
