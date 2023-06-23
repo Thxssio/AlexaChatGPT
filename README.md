@@ -4,3 +4,9 @@
 
 
 ***Integration Alexa and ChatGPT-API***
+
+
+- [x] Alexa
+- [X] API
+- [X] JS
+- [X] Skill
