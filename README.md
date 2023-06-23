@@ -12,3 +12,10 @@
 - [X] Skill
 
 ##
+
+
+Install:
+
+```
+https://developer.amazon.com/en-US/docs/alexa/smapi/quick-start-alexa-skills-kit-command-line-interface.html
+```
