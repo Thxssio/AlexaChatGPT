@@ -8,14 +8,16 @@
 
 - [x] Alexa
 - [X] ASK CLI
-- [X] JS
+- [X] NodeJS
 - [X] Skill
+
 
 ##
 
 
 Install:
 
-```
-https://developer.amazon.com/en-US/docs/alexa/smapi/quick-start-alexa-skills-kit-command-line-interface.html
-```
+instale o [NodeJs- Windows](https://nodejs.org/dist/v18.16.1/node-v18.16.1-x64.msi) ou [NodeJs- Windows](https://nodejs.org/dist/v18.16.1/node-v18.16.1-linux-x64.tar.xz)
+
+
+
