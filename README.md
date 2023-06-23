@@ -1,2 +1,6 @@
-# AlexaChatGPT
-Integration Alexa and ChatGPT-API
+<h1 align="center"> AlexaChatGPT </h1>
+
+
+
+
+***Integration Alexa and ChatGPT-API***
